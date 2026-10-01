@@ -1,0 +1,6 @@
+{
+  "name": "SocialImpact - Social Media Brand & Sales Research Lab",
+  "description": "Comprehensive empirical study and analytics platform measuring the impact of social media marketing on brand image and sales performance, featuring live Google Slides deck generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
